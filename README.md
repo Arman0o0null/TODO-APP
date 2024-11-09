@@ -3,6 +3,12 @@ it's simple project and I wrote this program for test something but after a some
 Result of my program.
 !!!it's just for fun!!!
 
+## FOR PC AND LARGE DISPLAY
+
 ![Alt text](./imges/Screenshot%20(156).png)
+
+## FOR SMILE DEVICE DISPLY
+
+![Alt text](./imges/Screenshot%20(157).png)
 
 ## THANKS FOR READ THIS SHEET...
